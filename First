@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Stoic Lessons - Ryan Holiday</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #FFFFFF; color: #000000; }
+    .topnav { position: fixed; top: 0; width: 100%; background: #FDFDFD; z-index: 1000; display: flex; align-items: center; justify-content: center; flex-wrap: wrap; padding: 10px 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+    .topnav img.logo { height: 30px; margin-right: 20px; }
+    .topnav a { margin: 5px 10px; text-decoration: none; color: #BFA14A; font-weight: bold; }
+    .topnav a:hover { text-decoration: underline; }
+    .content { padding-top: 70px; padding-bottom: 50px; }
+    section { margin: 40px 20px; }
+    section .columns { display: flex; align-items: flex-start; }
+    section .column { width: 50%; padding: 0 15px; box-sizing: border-box; }
+    section .column h2 { font-size: 1.4em; color: #333333; margin-top: 0; }
+    section .column p { line-height: 1.6; margin: 0.5em 0; }
+    section .column blockquote { margin: 1em 0; padding: 0.5em 1em; background: #F9F9F9; border-left: 4px solid #BFA14A; }
+    section .column blockquote p { margin: 0; font-style: italic; }
+    .section-nav { text-align: center; margin-top: 15px; }
+    .section-nav a { margin: 0 10px; text-decoration: none; color: #BFA14A; font-weight: bold; }
+    .section-nav a:hover { text-decoration: underline; }
+    @media (max-width: 768px) {
+      section .columns { flex-direction: column; }
+      section .column { width: 100%; }
+    }
+  </style>
+</head>
+<body>
+  <nav class="topnav">
+    <img src="columncode_logo.png" alt="ColumnCode Logo" class="logo" />
+    <a href="#intro">Вступление</a>
+    <a href="#plague">Антониновая чума</a>
+    <a href="#obstacle">Препятствие — это путь</a>
+    <a href="#action">Дисциплина действия</a>
+    <a href="#mindfulness">Осознанность и тревога</a>
+    <a href="#routine">Утренняя рутина</a>
+    <a href="#self-discipline">Самодисциплина</a>
+    <a href="#people">Отношение к людям</a>
+    <a href="#matters">Что действительно важно?</a>
+    <a href="#principles">Три стоических принципа</a>
+    <a href="#" onclick="window.print()">Скачать как PDF</a>
+  </nav>
+  <div class="content">
+    <a id="top"></a>
+    <section id="intro">
+      <div class="columns">
+        <div class="column english">
+          <h2>Introduction</h2>
+          <p>In this talk, author <strong>Ryan Holiday</strong> (known for books like <em>The Obstacle is the Way</em>) shares timeless lessons from <strong>Stoic</strong> philosophy. Stoicism, an ancient Greco-Roman philosophy, teaches that while we cannot control external events, we can always control our own responses and attitudes. Holiday illustrates how Stoic principles can guide us through adversity and help us live better, more resilient lives.</p>
+          <p>He explores how Stoic ideas remain relevant – from the way Emperor Marcus Aurelius dealt with a devastating plague, to the notion that obstacles can become opportunities, to daily practices of discipline and mindfulness, to understanding what truly matters in life. These Stoic lessons, drawn from the wisdom of Marcus Aurelius, Seneca, Epictetus and others, offer practical guidance for anyone seeking calm and strength in today's chaotic world.</p>
+        </div>
+        <div class="column russian">
+          <h2>Вступление</h2>
+          <p>В этом выступлении автор <strong>Райан Холидей</strong> (известный книгой <em>«Препятствие – это путь»</em> и другими) делится вечными уроками философии <strong>стоицизма</strong>. Стоицизм – древняя греко-римская философия, которая учит, что хотя мы не властны над внешними событиями, мы всегда можем контролировать свою реакцию и отношение к ним. Холидей показывает, как стоические принципы способны вести нас через невзгоды и помогать жить лучше, с большим спокойствием и стойкостью.</p>
+          <p>Он объясняет, почему идеи стоиков не утратили актуальности: рассказывает, как император Марк Аврелий справлялся с разрушительной эпидемией, рассматривает понятие о том, что любое препятствие может стать возможностью, обсуждает ежедневные практики дисциплины и осознанности, а также разъясняет, что действительно имеет значение в жизни. Эти уроки стоиков, почерпнутые из мудрости Марка Аврелия, Сенеки, Эпиктета и других, предлагают практические ориентиры каждому, кто стремится обрести спокойствие и силу в нашем беспокойном мире.</p>
+        </div>
+      </div>
+      <div class="section-nav">
+        <a href="#top">Вверх</a>
+        <a href="#plague">Далее &raquo;</a>
+      </div>
+    </section>
+    <section id="plague">
+      <div class="columns">
+        <div class="column english">
+          <h2>Antonine Plague</h2>
+          <p>Ryan Holiday begins with a historical example: the <strong>Antonine Plague</strong> of the 2nd century. This deadly pandemic swept through the Roman Empire during the reign of Marcus Aurelius, ultimately killing millions. Holiday notes how eerily similar the accounts sound to modern pandemics – widespread fear, rumors, overwhelmed doctors, halted travel and commerce, and an emperor trying to hold everything together. Marcus Aurelius faced a crisis very much like our own, and yet he remained calm and dutiful.</p>
+          <p>Marcus Aurelius wrote in his journal during that plague, reflecting on the repetitive nature of history. In <em>Meditations</em> he reminds himself:</p>
+          <blockquote><p>“To bear in mind constantly that all of this has happened before, and will happen again – the same plot from beginning to end, only the people different.”</p></blockquote>
+          <p>In other words, no matter how unprecedented a disaster feels, the Stoic realizes that humanity has endured similar trials before. This perspective gave Marcus the strength not to despair. Instead of feeling that the world was ending, he saw the pandemic as part of a recurring pattern – a difficult episode that he, like those before him, must face with courage and wisdom. This Stoic mindset helped Marcus Aurelius lead and persevere through one of history’s worst plagues.</p>
+        </div>
+        <div class="column russian">
+          <h2>Антониновая чума</h2>
+          <p>Райан Холидей начинает с исторического примера — эпидемии <strong>Антониновой чумы</strong> во II веке н.э. Эта смертельная пандемия охватила Римскую империю во время правления Марка Аврелия и унесла жизни миллионов людей. Холидей отмечает, насколько описания тех событий напоминают современные пандемии: повсеместный страх, слухи, врачи, не успевающие лечить больных, прекращение путешествий и торговли, и император, пытающийся сохранить государство. Марк Аврелий столкнулся с кризисом, очень похожим на наш, и тем не менее он сохранял спокойствие и исполнял свой долг.</p>
+          <p>Во время той чумы Марк Аврелий записал в своём дневнике мысли о повторяющемся характере истории. В своих <em>«Размышлениях»</em> он напомнил себе:</p>
+          <blockquote><p>«Непрестанно держи в мыслях, что всё это уже бывало прежде и будет повторяться снова — один и тот же сюжет от начала до конца, различаются лишь действующие лица».</p></blockquote>
+          <p>Иными словами, каким бы беспрецедентным ни казалось бедствие, стоик понимает, что человечеству уже доводилось переживать нечто подобное. Эта перспектива придавала Марку силы не отчаиваться. Вместо ощущения, что мир рушится, он воспринимал пандемию как часть повторяющегося цикла – тяжелое испытание, которое он, подобно своим предшественникам, должен встретить с мужеством и мудростью. Такой стоический взгляд помог Марку Аврелию проявить лидерство и выдержку во время одной из самых страшных эпидемий в истории.</p>
+        </div>
+      </div>
+      <div class="section-nav">
+        <a href="#intro">&laquo; Назад</a>
+        <a href="#top">Вверх</a>
+        <a href="#obstacle">Далее &raquo;</a>
+      </div>
+    </section>
+    <section id="obstacle">
+      <div class="columns">
+        <div class="column english">
+          <h2>The Obstacle Is the Way</h2>
+          <p>Next, Holiday explains the Stoic idea that obstacles can actually become advantages – encapsulated in the phrase <strong>“the obstacle is the way.”</strong> This counterintuitive lesson comes from Marcus Aurelius as well. Marcus wrote that the mind can adapt and turn obstacles into fuel for its purpose. Or as he famously put it: </p>
+          <blockquote><p>“The impediment to action advances action. What stands in the way becomes the way.”</p></blockquote>
+          <p>Rather than seeing adversity as something to lament, the Stoic sees it as an opportunity to grow and improve. Every challenge is a chance to practice virtue – to be patient, courageous, forgiving, resilient. Holiday emphasizes that for a Stoic, every obstacle contains a lesson or a potential benefit. Even if an outcome isn’t what we wanted, we can use it to move forward.</p>
+          <p>Marcus Aurelius even likened a resilient person to a fire: throw anything onto it – wood, debris – and it turns it into flame and brightness. In the same way, a Stoic strives to take whatever life throws at them and turn it into fuel for becoming stronger and better. This is the core of “the obstacle is the way” – our difficulties form the path to our progress.</p>
+        </div>
+        <div class="column russian">
+          <h2>Препятствие — это путь</h2>
+          <p>Далее Холидей объясняет стоическую идею о том, что препятствия на самом деле могут оборачиваться преимуществами – эту мысль выражает фраза <strong>«препятствие – это путь»</strong>. Этот парадоксальный урок тоже исходит от Марка Аврелия. Марк писал, что разум способен приспособиться и обратить препятствие себе на пользу. Или, как он знаменитым образом сформулировал: </p>
+          <blockquote><p>«Препятствие действию продвигает действие. То, что стоит на пути, само становится путем».</p></blockquote>
+          <p>Вместо того чтобы воспринимать невзгоды как повод для жалоб, стоик видит в них возможность вырасти и стать лучше. Любое испытание – шанс проявить добродетель: терпение, мужество, прощение, стойкость. Холидей подчеркивает, что для стоика в каждом препятствии скрыт урок или потенциальная польза. Даже если всё сложилось не так, как хотелось, это можно использовать, чтобы продвинуться вперед.</p>
+          <p>Марк Аврелий даже сравнил стойкого человека с огнем: бросьте в него что угодно – дерево, мусор – и он превратит это в пламя и свет. Точно так же стоик стремится все, что ни бросит ему жизнь, превращать в топливо для того, чтобы стать сильнее и лучше. В этом суть принципа «препятствие – это путь»: наши трудности формируют путь нашего прогресса.</p>
+        </div>
+      </div>
+      <div class="section-nav">
+        <a href="#plague">&laquo; Назад</a>
+        <a href="#top">Вверх</a>
+        <a href="#action">Далее &raquo;</a>
+      </div>
+    </section>
+    <section id="action">
+      <div class="columns">
+        <div class="column english">
+          <h2>Discipline of Action</h2>
+          <p>Holiday then discusses the Stoic emphasis on taking right action – what some call the “discipline of action.” It’s not enough to theorize or talk about philosophy; a Stoic must live it. Stoicism is a practical philosophy, and the Stoics were men and women of action. They believed in doing the right thing regardless of circumstances. As Marcus Aurelius wrote, <em>“Just do the right thing. The rest doesn’t matter.”</em></p>
+          <p>This means we shouldn’t wait for perfect conditions to act virtuously. Whether we feel tired or fresh, whether we are praised or criticized, we must strive to do our duty. Holiday notes that self-improvement and moral progress come from consistently acting according to our principles. He quotes Epictetus, who cautioned: <em>“Don’t explain your philosophy. Embody it.”</em> In short, one shows their beliefs through their actions, not words.</p>
+          <p>By practicing the discipline of action, we commit to actually doing what is right and needed – day in and day out. This builds character and integrity. Stoics like Epictetus advised reviewing each day’s actions to see where you did well and where you can do better. Holiday encourages taking those small actions in the present moment that align with your values, because over time they add up to a meaningful life.</p>
+        </div>
+        <div class="column russian">
+          <h2>Дисциплина действия</h2>
+          <p>Затем Холидей говорит о стоическом акценте на правильных поступках – о том, что иногда называют «дисциплиной действия». Недостаточно рассуждать о философии или говорить о добродетели; стоик должен применять идеи на практике. Стоицизм – прикладная философия, и стоики были людьми действия. Они верили в то, чтобы поступать правильно независимо от обстоятельств. Как писал Марк Аврелий: <em>«Просто поступай правильно. Остальное неважно».</em></p>
+          <p>Это означает, что не следует ждать идеальных условий, чтобы проявлять добродетель. Чувствуем ли мы усталость или бодрость, хвалят нас или критикуют – мы должны стремиться выполнять свой долг. Холидей отмечает, что самосовершенствование и нравственный прогресс достигаются постоянными действиями в соответствии с нашими принципами. Он цитирует Эпиктета, который предупреждал: <em>«Не рассказывай о своей философии – воплощай ее».</em> Иными словами, о убеждениях человека судят по его поступкам, а не по словам.</p>
+          <p>Практикуя дисциплину действия, мы берем на себя обязательство ежедневно делать то, что правильно и необходимо. Это формирует характер и порядочность. Такие стоики, как Эпиктет, советовали каждый день подводить итог своим поступкам, чтобы понять, где мы преуспели, а где можем исправиться. Холидей призывает совершать небольшие правильные действия здесь и сейчас, в соответствии со своими ценностями, поскольку со временем именно они складываются в значимую жизнь.</p>
+        </div>
+      </div>
+      <div class="section-nav">
+        <a href="#obstacle">&laquo; Назад</a>
+        <a href="#top">Вверх</a>
+        <a href="#mindfulness">Далее &raquo;</a>
+      </div>
+    </section>
+    <section id="mindfulness">
+      <div class="columns">
+        <div class="column english">
+          <h2>Mindfulness and Anxiety</h2>
+          <p>Another lesson Holiday draws from Stoicism is how to deal with anxiety and fear. Long before the term “mindfulness” was popular, the Stoics were teaching people to be present and not let worry overwhelm them. The Stoic approach to anxiety is to focus only on what you can control and let go of everything else. As the teacher Epictetus said, the first task of philosophy is to distinguish between what is up to us and what is not.</p>
+          <p>Holiday explains that anxiety often comes from imagining things outside our control or worst-case scenarios. The Stoics urged rational examination of our fears. The philosopher Seneca noted, <em>“We suffer more often in imagination than in reality.”</em> We torment ourselves by anticipating troubles that might never come. Marcus Aurelius advised returning to the present moment and to calm whenever anxious thoughts strike, reminding himself not to be “whirled around” by external things.</p>
+          <p>In practice, Stoic “mindfulness” means continually bringing your attention back to the here and now, and to your own mind. You can’t control tomorrow’s outcomes, but you can control your attitudes and actions today. Holiday suggests adopting Stoic techniques like deep breathing, journaling worries to put them in perspective, and repeating a Stoic mantra that only the present is ours. By not indulging panic or fear, we keep our heads clear to do what needs to be done. The result is a more steady, resilient mindset in the face of life’s uncertainties.</p>
+        </div>
+        <div class="column russian">
+          <h2>Осознанность и тревога</h2>
+          <p>Еще один урок, который Холидей извлекает из стоицизма, касается того, как справляться с тревогой и страхом. Задолго до того, как появилось слово «осознанность», стоики учили пребывать в настоящем и не позволять беспокойству захлестывать себя. Стоический подход к тревоге заключается в том, чтобы сосредоточиться только на том, что зависит от нас, и отпустить все, что вне нашего контроля. Как говорил учитель Эпиктет, первая задача философии – различить, что в нашей власти, а что нет.</p>
+          <p>Холидей объясняет, что тревога часто возникает из-за того, что мы представляем себе неконтролируемые ситуации или самые худшие варианты развития событий. Стоики призывали рационально исследовать свои страхи. Философ Сенека заметил: <em>«Мы чаще страдаем в своем воображении, чем в действительности».</em> Мы мучаем себя, предвосхищая беды, которые могут так и не случиться. Марк Аврелий советовал, почувствовав тревожные мысли, возвращаться к настоящему моменту и к душевному спокойствию, напоминая себе не позволять «закружить» себя внешним вещам.</p>
+          <p>На практике стоическая «осознанность» означает постоянно возвращать внимание к здесь и сейчас и к своему собственному уму. Вы не можете контролировать исход завтрашнего дня, но можете контролировать свое отношение и свои действия сегодня. Холидей предлагает применять стоические техники: например, глубоко дышать, записывать свои волнения в дневник, чтобы увидеть их со стороны, и повторять стоическое напоминание, что нам принадлежит лишь настоящий момент. Не поддаваясь панике и страху, мы сохраняем ясность ума, чтобы делать то, что необходимо. В результате мы обретаем более устойчивое и спокойное сознание перед лицом жизненных неопределенностей.</p>
+        </div>
+      </div>
+      <div class="section-nav">
+        <a href="#action">&laquo; Назад</a>
+        <a href="#top">Вверх</a>
+        <a href="#routine">Далее &raquo;</a>
+      </div>
+    </section>
+    <section id="routine">
+      <div class="columns">
+        <div class="column english">
+          <h2>Morning Routine</h2>
+          <p>Holiday also highlights the importance of routine and ritual in Stoicism. The Stoics were big believers in daily habits that reinforce philosophy. Marcus Aurelius, for example, would set aside quiet time every morning for reflection and journaling, which is how his <em>Meditations</em> were born. No matter how busy or chaotic things were (even in wartime or during the plague), Marcus stuck to this morning routine of philosophic contemplation.</p>
+          <p>Likewise, Seneca practiced an evening review each day, examining his conscience and actions. He wrote that each night, after his wife had gone to sleep, he would reflect on what he did well and what he could improve. These routines provided structure and mental clarity. Holiday points out that having a steady routine – whether it’s a morning meditation, exercise, reading, or journaling – grounds you. It’s something in your control that you can do every day to maintain inner peace and direction.</p>
+          <p>A good routine prepares your mind for the day’s challenges. Marcus Aurelius wrote that at dawn he reminded himself of the virtues he wanted to practice and the attitudes to maintain. By starting the day with philosophy, the Stoics armed themselves to meet the day with equanimity. Holiday encourages creating a personal routine that aligns with Stoic principles, so that each day begins (and ends) with a bit of wisdom and self-reflection.</p>
+        </div>
+        <div class="column russian">
+          <h2>Утренняя рутина</h2>
+          <p>Холидей также подчеркивает важность распорядка и ритуалов в стоицизме. Стоики были убеждены в силе ежедневных привычек, подкрепляющих их философию. Например, Марк Аврелий каждое утро выделял время на тихое раздумье и записи в дневнике – так появились его <em>«Размышления»</em>. Независимо от того, насколько загруженным или хаотичным был день (даже во время войн или эпидемии), Марк придерживался этого утреннего ритуала философского размышления.</p>
+          <p>Точно так же Сенека практиковал ежедневный вечерний самоанализ, оценивая свою совесть и поступки. Он писал, что каждый вечер, когда жена уже ложилась спать, он размышлял над тем, что сделал хорошо, а что мог бы исправить. Подобные рутины обеспечивали структуру дня и ясность ума. Холидей отмечает, что наличие устойчивого распорядка – будь то утреннее размышление, физические упражнения, чтение или ведение дневника – помогает обрести опору. Это то, что находится в вашей власти и что вы можете делать каждый день для сохранения внутреннего покоя и целеустремленности.</p>
+          <p>Хорошая рутина подготавливает разум к дневным испытаниям. Марк Аврелий писал, что на заре он напоминает себе о добродетелях, которые хочет проявлять, и о настрое, который следует сохранять. Начав день с философии, стоики вооружали себя для встречи дня с душевным равновесием. Холидей призывает выработать личный распорядок в духе стоицизма, чтобы каждый день начинался (и заканчивался) с доли мудрости и саморефлексии.</p>
+        </div>
+      </div>
+      <div class="section-nav">
+        <a href="#mindfulness">&laquo; Назад</a>
+        <a href="#top">Вверх</a>
+        <a href="#self-discipline">Далее &raquo;</a>
+      </div>
+    </section>
+    <section id="self-discipline">
+      <div class="columns">
+        <div class="column english">
+          <h2>Self-Discipline</h2>
+          <p>A recurring theme in Holiday’s talk is <strong>self-discipline</strong>. The Stoics held that to live a good life, one must govern oneself and resist unhealthy impulses. Holiday points out that in today’s world, discipline is often seen as a key to success – and the Stoics knew this long ago. They understood that freedom comes from mastery over your own desires and habits.</p>
+          <p>To the Stoics, <em>self-discipline</em> meant moderation, temperance, and endurance. For example, they practiced controlling their tempers, appetites, and indulgences. Seneca advised avoiding excess in all things, from food and drink to wealth and leisure, to keep the soul robust. By saying “no” to distractions or pleasures that don’t serve you, you say “yes” to what is truly important.</p>
+          <p>Holiday mentions that achieving anything meaningful requires the ability to temper your immediate desires and stay focused on a higher goal. Stoics trained their willpower like a muscle, through small daily acts of self-control. Epictetus said no person is free if they cannot command themselves. By cultivating discipline – waking up early to work, sticking to an exercise regimen, controlling one’s anger – we become stronger and more independent individuals. Holiday encourages practicing little disciplines regularly (like a cold shower, a hard workout, or reading instead of scrolling on your phone) to build the Stoic virtue of self-discipline.</p>
+        </div>
+        <div class="column russian">
+          <h2>Самодисциплина</h2>
+          <p>Одна из сквозных тем выступления Холидея – это <strong>самодисциплина</strong>. Стоики считали, что для правильной жизни человек должен управлять собой и противостоять нездоровым порывам. Холидей отмечает, что в современном мире дисциплину часто рассматривают как ключ к успеху – и стоики понимали это уже давно. Они знали, что истинная свобода достигается через власть над собственными желаниями и привычками.</p>
+          <p>Для стоиков <em>самодисциплина</em> означала умеренность, воздержанность и стойкость. Например, они практиковали контроль над своим гневом, аппетитами и стремлением к удовольствиям. Сенека советовал избегать излишеств во всем – от еды и питья до богатства и досуга – чтобы дух оставался крепким. Отказываясь от отвлекающих или излишних удовольствий, вы говорите «да» тому, что действительно важно.</p>
+          <p>Холидей упоминает, что достижение любой значимой цели требует умения обуздать сиюминутные желания и сосредоточиться на высшей цели. Стоики тренировали свою волю как мускул, посредством мелких ежедневных актов самоконтроля. Эпиктет говорил, что никто не свободен, если не умеет командовать собой. Развивая дисциплину – будь то ранний подъем ради работы, строгий режим тренировок или умение сдержать гнев – мы становимся сильнее и более независимыми. Холидей призывает регулярно практиковать небольшие упражнения в дисциплине (например, холодный душ, интенсивную тренировку или чтение книги вместо прокрутки ленты в телефоне), чтобы воспитать в себе стоическую добродетель самодисциплины.</p>
+        </div>
+      </div>
+      <div class="section-nav">
+        <a href="#routine">&laquo; Назад</a>
+        <a href="#top">Вверх</a>
+        <a href="#people">Далее &raquo;</a>
+      </div>
+    </section>
+    <section id="people">
+      <div class="columns">
+        <div class="column english">
+          <h2>Attitude Toward People</h2>
+          <p>Holiday reminds us that Stoicism, while focused on personal virtue, also has a lot to say about how we treat others. The Stoics believed we are all part of a larger community and that we have duties to our fellow human beings. Marcus Aurelius wrote, <em>“Men exist for the sake of one another. Teach them or bear with them.”</em> In other words, we should help others whenever possible, or at least accept and tolerate them.</p>
+          <p>Seneca, too, said that human beings are made for each other, that we are all limbs of one body. Stoicism emphasizes empathy and the concept of the <strong>common good</strong>. Holiday notes that while Stoicism values inner strength and independence, it is not a philosophy of isolation or indifference. True Stoics are kind, just, and patient with others. They strive to contribute to society and maintain healthy relationships.</p>
+          <p>Holiday points out that relationships give life meaning. Even during hard times, the Stoics knew the importance of friendship and charity. They used the word <em>sympatheia</em> to describe the interconnectedness of all people. We are not solitary islands; we need each other to live well. By remembering this, we can rise above petty disputes and show up for those around us. Helping others not only benefits them, it also ennobles and fulfills us. For the Stoics, caring for others and working for the common good is an essential part of living virtuously.</p>
+        </div>
+        <div class="column russian">
+          <h2>Отношение к людям</h2>
+          <p>Холидей напоминает, что стоицизм, несмотря на внимание к личной добродетели, многое говорит и о том, как мы относимся к другим. Стоики верили, что все мы — часть большого сообщества, и у нас есть обязанности перед ближними. Марк Аврелий писал: <em>«Люди созданы друг для друга. Учись у них или терпей их»</em> (то есть помогай другим при любой возможности, а если не можешь помочь — по крайней мере принимай их такими, какие они есть, и терпи их недостатки).</p>
+          <p>Сенека также говорил, что люди созданы друг для друга, что мы — как части единого организма. Стоицизм подчеркивает сочувствие и идею <strong>общего блага</strong>. Холидей отмечает, что хотя стоицизм ценит внутреннюю силу и независимость, это не философия изоляции или равнодушия. Истинный стоик добр, справедлив и терпелив с другими. Стоики стремятся вносить вклад в общество и поддерживать здоровые отношения.</p>
+          <p>Холидей указывает, что отношения придают жизни смысл. Даже в трудные времена стоики понимали важность дружбы и милосердия. Они использовали термин <em>sympatheia</em> (сопереживание, единство) для описания взаимосвязанности всех людей. Мы не отдельные острова; нам нужны друг друга, чтобы жить хорошо. Помня об этом, мы можем подняться выше мелких разногласий и прийти на помощь окружающим. Помогая другим, мы не только приносим пользу им, но и возвышаем и наполняем смыслом собственную жизнь. Для стоиков забота о ближних и работа на общее благо — неотъемлемая часть добродетельной жизни.</p>
+        </div>
+      </div>
+      <div class="section-nav">
+        <a href="#self-discipline">&laquo; Назад</a>
+        <a href="#top">Вверх</a>
+        <a href="#matters">Далее &raquo;</a>
+      </div>
+    </section>
+    <section id="matters">
+      <div class="columns">
+        <div class="column english">
+          <h2>What Really Matters?</h2>
+          <p>Toward the end of the talk, Holiday centers on the question of what truly matters in life. Stoicism teaches that external things – wealth, fame, even health and life itself – are ultimately “indifferent.” This doesn’t mean they have no value at all, but that they are not the source of true happiness or goodness. What really matters to the Stoics is <strong>virtue</strong>: the kind of person you are, how you behave, how you treat others.</p>
+          <p>Holiday suggests that crises and challenges (like the Antonine Plague or any hardship) have a way of clarifying our priorities. When faced with adversity or even mortality, we realize that things like status or luxury are not as important as character, love, and integrity. As one Stoic idea goes, you can’t take your money or awards with you when you die, but the impact of your actions and the memory of your goodness remain.</p>
+          <p>In Stoicism, a good life is measured by inner qualities: wisdom, courage, justice, self-control. Holiday concludes that what really matters is living in accordance with these virtues. When you focus on being a good person – being kind, honest, brave, and self-disciplined – you are focusing on what you can control and what truly lasts. That, in the Stoic view, is a successful life, regardless of what fortune may bring or take away.</p>
+        </div>
+        <div class="column russian">
+          <h2>Что действительно важно?</h2>
+          <p>Под конец своей речи Холидей сосредотачивается на вопросе о том, что же по-настоящему важно в жизни. Стоицизм учит, что внешние вещи – богатство, слава, даже здоровье и сама жизнь – в конечном счете являются «безразличными». Это не значит, что они совсем не имеют значения, но они не являются источником истинного счастья или блага. По мнению стоиков, действительно важно лишь <strong>добродетель</strong> – кем вы являетесь как личность, как вы поступаете, как вы относитесь к другим.</p>
+          <p>Холидей предполагает, что кризисы и испытания (будь то Антонинова чума или любое другое тяжелое испытание) проясняют наши приоритеты. Столкнувшись с бедой или даже со смертью, мы осознаем, что такие вещи, как статус или роскошь, не столь важны, как характер, любовь и порядочность. Как гласит одна стоическая идея, вы не сможете забрать с собой деньги или награды, когда покинете этот мир, но влияние ваших поступков и память о вашей добродетели останутся.</p>
+          <p>В стоицизме мерилом правильной жизни являются внутренние качества: мудрость, мужество, справедливость, самообладание. Холидей заключает, что действительно важно жить в соответствии с этими добродетелями. Когда вы сосредоточены на том, чтобы быть хорошим человеком – добрым, честным, смелым и дисциплинированным – вы сосредоточены на том, что подвластно вам и что по-настоящему непреходяще. С точки зрения стоиков, именно такая жизнь является успешной, вне зависимости от того, что удача может дать или отнять.</p>
+        </div>
+      </div>
+      <div class="section-nav">
+        <a href="#people">&laquo; Назад</a>
+        <a href="#top">Вверх</a>
+        <a href="#principles">Далее &raquo;</a>
+      </div>
+    </section>
+    <section id="principles">
+      <div class="columns">
+        <div class="column english">
+          <h2>Three Stoic Principles: Amor Fati, Common Good, Memento Mori</h2>
+          <p>Finally, Holiday wraps up with three core Stoic principles that sum up many of the lessons above:</p>
+          <p><strong>1. Amor Fati – “Love of Fate.”</strong> This is the Stoic idea of embracing everything that happens. Rather than merely accepting fate, the Stoic strives to <em>love</em> it. Holiday explains that <strong>Amor Fati</strong> means using every event, whether good or bad, as an opportunity or lesson. If something painful or challenging happens, a Stoic asks, “How can I make the best of this?” Marcus Aurelius said a blazing fire makes flame and brightness out of anything thrown into it – that’s Amor Fati in action. By loving one’s fate, you turn obstacles into fuel and refuse to be broken by adversity.</p>
+          <p><strong>2. Common Good – living for others.</strong> The Stoics believed humans are social creatures and that we are here to contribute to the common good. Holiday emphasizes that Stoicism isn’t just about personal resilience, but also about service and kindness. Marcus Aurelius and Seneca both wrote that we must help our fellow humans and work together. This principle of the <strong>common good</strong> encourages us to view ourselves as part of a larger whole – to be good family members, neighbors, citizens. By doing so, we create meaning and virtue in our lives.</p>
+          <p><strong>3. Memento Mori – “Remember you will die.”</strong> Holiday reminds us of this famous Stoic motto. Far from being morbid, <strong>Memento Mori</strong> is meant to inspire urgency and gratitude. The Stoics kept the inevitability of death in mind to remind themselves to live fully. Marcus Aurelius wrote, “You could leave life right now. Let that determine what you do and say and think.” Knowing that our time is limited encourages us not to waste a single day on trivialities or vice. Instead, we cherish our loved ones, we speak the truth, we pursue our purpose, and we let go of petty worries. Memento Mori underlines all Stoic practice: life is fragile and short, so focus on what matters and live a life worthy of being your last.</p>
+          <p>By teaching <em>Amor Fati</em>, the <em>Common Good</em>, and <em>Memento Mori</em>, Ryan Holiday concludes that Stoicism offers powerful guidance for a meaningful life. Love everything that happens, do good for others, and remember that life is short. These principles helped ancient Stoics thrive amidst chaos and can help us do the same today.</p>
+        </div>
+        <div class="column russian">
+          <h2>Три стоических принципа: Amor Fati, Общее благо, Memento Mori</h2>
+          <p>Напоследок Холидей резюмирует три ключевых стоических принципа, которые во многом объединяют все вышесказанное:</p>
+          <p><strong>1. Amor Fati – «Любовь к судьбе».</strong> Это стоическая идея принимать всё, что ни происходит. Стоик стремится не просто смириться с судьбой, но даже <em>полюбить</em> ее. Холидей объясняет, что <strong>Amor Fati</strong> означает использовать каждое событие, будь оно хорошим или плохим, как возможность или урок. Если происходит что-то болезненное или сложное, стоик спрашивает себя: «Как я могу извлечь из этого пользу?». Марк Аврелий говорил, что яркий огонь превращает в сияние всё, что в него бросают – это и есть Amor Fati в действии. Любя свою судьбу, вы превращаете препятствия в топливо и не позволяете невзгодам сломить вас.</p>
+          <p><strong>2. Общее благо – жизнь ради других.</strong> Стоики верили, что человек по природе – существо общественное, и мы живем, чтобы вносить вклад в общее благо. Холидей подчеркивает, что стоицизм – это не только о личной стойкости, но и о служении и доброте. Марк Аврелий и Сенека писали, что мы должны помогать ближним и действовать сообща. Принцип <strong>общего блага</strong> побуждает нас видеть в себе часть единого целого – быть хорошими членами семьи, соседями, гражданами. Таким образом мы наполняем свою жизнь смыслом и добродетелью.</p>
+          <p><strong>3. Memento Mori – «Помни о смерти».</strong> Холидей напоминает нам этот знаменитый стоический девиз. Это вовсе не мрачно – напротив, <strong>Memento Mori</strong> призван пробудить срочность и благодарность. Стоики постоянно держали неизбежность смерти в уме, чтобы не забывать жить полноценно. Марк Аврелий писал: «Ты можешь уйти из жизни прямо сейчас. Пусть это определяет, что ты делаешь, говоришь и помышляешь». Осознание того, что наше время ограничено, побуждает нас не тратить ни дня на пустяки или пороки. Вместо этого мы ценим близких, говорим правду, следуем своему призванию и отпускаем мелочные тревоги. Memento Mori пронизывает всю стоическую практику: жизнь хрупка и коротка, поэтому сосредоточьтесь на главном и живите так, словно каждый день может стать последним.</p>
+          <p>Излагая принципы <em>Amor Fati</em>, <em>общего блага</em> и <em>Memento Mori</em>, Райан Холидей показывает, что стоицизм дает мощные ориентиры для осмысленной жизни. Люби всё, что происходит, твори добро для других и помни, что жизнь коротка. Эти принципы помогали древним стоикам процветать среди хаоса и могут помочь нам сделать то же самое сегодня.</p>
+        </div>
+      </div>
+      <div class="section-nav">
+        <a href="#matters">&laquo; Назад</a>
+        <a href="#top">Вверх</a>
+      </div>
+    </section>
+  </div>
+</body>
+</html>
